@@ -1,0 +1,28 @@
+{
+  "name": "kodilla-projekt",
+  "version": "1.0.0",
+  "description": "Example grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-tet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aczerminski/NewProject.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Artur Czerminski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aczerminski/NewProject/issues"
+  },
+  "homepage": "https://github.com/aczerminski/NewProject#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
